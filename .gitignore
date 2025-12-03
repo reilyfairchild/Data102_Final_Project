@@ -205,3 +205,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/EJSCREEN_2023_BG_with_AS_CNMI_GU_VI.csv
